@@ -1,0 +1,94 @@
+Year,Make,Model,Price,Number of Owners,Use,Body,Mileage,Damage,Accident,Purchase
+2011,Chevrolet,Silverado LT,9988,2,Personal Use,Pickup,125210,Yes,No,No
+2008,Toyota,Corolla CE,7995,2,Multiple Use,Sedan,121681,No,No,Yes
+2012,Kia,Rio LX,4995,2,Personal Use,Sedan,140401,No,No,No
+2018,Nissan,Rogue SL,7980,1,Personal Use,SUV,213787,No,No,No
+2018,Hyundai,Tucson SEL,9775,1,Personal Use,SUV,147815,No,No,No
+2012,Jeep,Compass Sport,9977,1,Personal Use,SUV,41918,No,No,No
+2015,Jeep,Compass Latitude,7800,1,Personal Use,SUV,115855,No,No,No
+2019,Kia,Rio S,9999,1,Personal Use,Hatchback,91975,No,No,No
+2008,Honsda,Accord EX,8350,2,Personal Use,Sedan,93733,No,No,Yes
+2017,Hyundai,Elantra,9994,3,Personal Use,Sedan,83630,No,No,Yes
+2015,Nissan,Rogue SV,6900,1,Personal Use,SUV,155555,No,No,No
+2010,BMW,X5 xDrive30i,8695,3,Personal Use,SUV,106765,No,No,Yes
+2014,Chevrolet,Equinox LT LT1,5250,3,Personal Use,SUV,196154,No,No,No
+2013,Mazda,CX-5 Touring,7700,1,Personal Use,SUV,140360,Yes,No,No
+2016,Nissan,Sentra S,6111,1,Personal Use,Sedan,127340,Yes,No,No
+2019,Nissan,Versa S,9281,1,Personal Use,Sedan,79330,No,No,Yes
+2012,Ford,Escape XLT,7295,1,Personal Use,SUV,104490,Yes,Yes,No
+2016,Kia,Sorento LX,9995,1,Personal Use,SUV,106462,Yes,Yes,No
+2014,Honda,Accord Sport,9500,1,Personal Use,Sedan,162174,No,No,No
+2017,Chevrolet,Equinox LT,8995,2,Personal Use,SUV,142390,No,No,No
+2015,Subaru,Forester 2.5i Limited,7495,1,Personal Use,SUV,155062,No,No,No
+2010,Honda,Accord EXL,9990,1,Personal Use,Sedan,84396,No,No,Yes
+2009,Mercedes-Benz,C-Class C 300,7999,1,Personal Use,Sedan,103759,No,No,No
+2014,Audi,Q7 Premium Plus,9950,1,Personal Use,Sedan,126145,No,No,No
+2009,Toyota,Corolla S,5490,1,Personal Use,Sedan,176084,No,No,Yes
+2013,Jeep,Compass Sport,7994,3,Personal Use,SUV,112433,No,No,No
+2013,Nissan,SentraSV,6900,1,Personal Use,Sedan,98543,Yes,No,Yes
+2012,Chevrolet,Traverse LS,6200,1,Personal Use,SUV,124000,Yes,No,No
+2014,Ford,Explorer Sport,10000,1,Personal Use,SUV,167890,No,No,No
+2012,Ford,Escape Limited,9499,1,Personal Use,SUV,89696,No,No,Yes
+2011,Subaru,Outback 2.5i Premium,6000,1,Personal Use,SUV,152045,No,No,No
+2003,Chevrolet,Silverado 1500,7555,1,Personal Use,Pickup,51812,Yes,No,No
+2017,Nissan,Altima,7990,1,Personal Use,Sedan,105849,No,No,Yes
+2015,Subaru,Forester 2.5i Premium,4995,1,Personal Use,SUV,166255,No,No,No
+2015,Hyundai,Santa Fe Limited Edition,7995,1,Personal Use,SUV,166701,Yes,Yes,No
+2020,Chevrolet,Equinox LS 1LS,6888,1,Personal Use,SUV,200766,No,No,No
+2006,Toyota,Camry,5614,1,Personal Use,Sedan,157371,No,No,Yes
+2012,Mini Cooper,S,7999,1,Personal Use,Sedan,93864,Yes,Yes,No
+2013,Ford,Escape,5830,1,Personal Use,SUV,211559,No,No,No
+2005,Chevrolet,Tahoe Z71,4499,3,Personal Use,SUV,211509,No,No,No
+2012,Honda,Accord LXP,9133,1,Personal Use,Sedan,112291,No,No,Yes
+2014,Ford,Escape,9967,2,Personal Use,SUV,57291,No,No,Yes
+2017,Nissan,Sentra,105699,1,Personal Use,Sedan,105699,Yes,No,No
+2008,Jeep,Wrangler X,166563,3,Personal Use,SUV,166563,No,No,No
+2014,Jeep,Cherokee Limited,9990,1,Personal Use,SUV,146775,No,No,No
+2013,Nissan,Frontier S,9995,1,Personal Use,Pickup,146808,No,No,Yes
+2017,Nissan,Pathfinder S,7300,1,Personal Use,SUV,115930,No,No,Yes
+2010,Nissan,Murano S,7500,1,Personal Use,SUV,98443,No,No,Yes
+2010,Audi,Q7 Premium Plus,7995,1,Personal Use,SUV,136851,No,No,No
+2017,Kia,Sportage LX,9301,1,Personal Use,SUV,122762,Yes,No,No
+2023,Kia,Sportage X-Pro,29686,1,Personal Use,SUV,16135,No,No,No
+2024,Volkswagen,Atlas SE,32991,1,Personal Use,SUV,12586,No,No,Yes
+2024,Lincoln,Corsair,40680,1,Personal Use,SUV,534,No,No,Yes
+2020,Nissan,Rogue,16420,1,Personal Use,SUV,88094,Yes,Yes,No
+2021,Nissan,Kicks S,14349,2,Personal Use,SUV,68018,No,No,Yes
+2021,Cadillac,XT5 ,28991,1,Personal Use,SUV,35262,No,No,Yes
+2024,Kia ,Seltos,23467,1,Personal Use,SUV,3244,No,No,No
+2021,Jeep,Grand Cherokee L Summit,41588,1,Personal Use,SUV,21499,No,No,No
+2020,Chevrolet ,Colorado,24895,1,Personal Use,Pickup,61436,Yes,Yes,No
+2016,GMC,Sierra 1500 SLT,24034,3,Personal Use,Pickup,96349,No,No,No
+2023,Volkswagen,Jetta Sport,19750,1,Personal Use,Sedan,12148,No,No,Yes
+2022,Honda,Odyssey Touring,31991,1,Personal Use,Minivan,62067,No,No,Yes
+2022,Volvo,XC60 B5 Momentum,29900,1,Personal Use,SUV,34802,No,No,Yes
+2015,Toyota,Venza XLE,12690,3,Personal Use,Wagon,134273,No,No,Yes
+2022,Ford,F-150 Lariat,48495,1,Personal Use,Pickup,22179,No,No,Yes
+2024,Volkswagen,Tiguan SE,25018,1,Personal Use,SUV,11938,No,No,Yes
+2024,Mercedes-Benz,G-Class G 550,160946,1,Personal Use,SUV,825,No,No,No
+2019,Nissan,Sonic LT,108928,2,Personal Use,Sedan,108928,Yes,Yes,No
+2021,Audi,A5 Premium 40,24368,1,Personal Use,Hatchback,62113,No,No,No
+2020,Mitsubishi,Outlander ES,12995,1,Personal Use,SUV,115460,No,No,No
+2024,Hyundai,Tucson SEL,25499,1,Personal Use,SUV,5820,No,No,Yes
+2023,Volvo,XC40 B5 Core,28200,1,Personal Use,SUV,35947,No,No,Yes
+2022,Toyota,RAV4 LE,21845,1,Rental Use,SUV,70218,No,No,Yes
+2015,Toyota,Avalon Limited Edition,12200,1,Personal Use,Sedan,145385,No,No,Yes
+2016,Honda,Pilot Touring,15823,3,Personal Use,SUV,132634,Yes,Yes,No
+2023,Ford,Bronco,46998,1,Personal Use,SUV,17905,No,No,Yes
+2022,Toyota,Corolla SE,21923,1,Personal Use,Sedan,31915,No,No,Yes
+2024,GMC,Canyon,32826,1,Personal Use,Pickup,1503,No,No,Yes
+2017,Jeep,Wrangler Sport,18777,1,Personal Use,SUV,93525,Yes,Yes,No
+2022,Mazda,CX-9 Touring,20900,1,Rental Use,SUV,58682,Yes,No,No
+2017,Buick,Envision Essence,10900,1,Personal Use,SUV,108000,Yes,Yes,No
+2024,Genesis,G70 Sport,42994,1,Personal Use,Sedan,6082,No,No,No
+2024,Subaru,Crosstrek Limited,29200,1,Corporate use,SUV,16169,No,No,Yes
+2021,Nissan,Kicks SV,15500,2,Personal Use,SUV,46310,No,No,Yes
+2014,Nissan ,Rogue,13555,1,Personal Use,SUV,57872,No,No,Yes
+2019,BMW,6 Series 650i xDrive Gran Coupe,32420,1,Personal Use,Sedan,52145,No,No,Yes
+2020,Chevrolet,Tahoe Premier,36239,1,Personal Use,SUV,103769,No,No,No
+2020,Hyundai,Kona Limited,15657,1,Personal Use,SUV,62712,Yes,Yes,No
+2019,Ford,F-150 XL,17500,1,Personal Use,Pickup,164244,Yes,Yes,No
+2020,BMW ,4 Series 440i Gran Coupe,25920,1,Personal Use,Sedan,44480,Yes,No,No
+2016,Rolls-Royce,Wraith,124995,1,Personal Use,Coupe,48701,No,No,Yes
+2019,Volkswagen,GTI SE,16875,1,Personal Use,hatchback,109523,No ,No ,No
+2015,Dodge ,Challenger SXT Plus,14499,2,Personal Use,Coupe,112229,Yes,No,No
